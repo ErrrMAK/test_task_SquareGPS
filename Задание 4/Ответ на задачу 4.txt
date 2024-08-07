@@ -1,0 +1,5 @@
+Безопасное внедрение отчета на веб-сайт или портал
+Вот ссылка, с помощью которой можно внедрить это содержимое.
+https://app.powerbi.com/reportEmbed?reportId=1dc261c5-e06e-4022-a5ce-1d8e92f485f7&autoAuth=true&ctid=fac2e4ad-91fe-4728-9af2-b9853d847612
+HTML-код, который можно вставить в веб-сайт
+<iframe title="Статус автопарка (задание 4)" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=1dc261c5-e06e-4022-a5ce-1d8e92f485f7&autoAuth=true&ctid=fac2e4ad-91fe-4728-9af2-b9853d847612" frameborder="0" allowFullScreen="true"></iframe>
